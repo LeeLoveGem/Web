@@ -1,4 +1,4 @@
-<html lang="zh">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>我的第一个项目</title>
