@@ -4,6 +4,6 @@
     <p style:"color:red;">Q Q:3411447578<br />邮箱:leelovegem@sina.cn</p>
     <p>把GitHub研究明白了发现真的太好用了</p>
     <hr />
-    <img src="img/BX.jpg">
+    <img src="baidu/img/BX.jpg">
   </body>
 </html>
